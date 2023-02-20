@@ -1,9 +1,10 @@
 # React To-Do List
-<p align="center"><img width="400" alt="A preview of the React list with a title, Road Trip Packing List. The background is a simple, black and white map of the US. Overlayed on top, is a list of items to pack." src="images/map-preview.png"> </p>
+
+<p align="center"><img width="400" src= alt="A preview of the React list with a title, Road Trip Packing List. The background is a simple, black and white map of the US. Overlayed on top, is a list of items to pack."> </p>
 
 # About:
 
- [Click here to see the Road Trip Packing List in action.](https://rainakpuels.github.io/PacMan-Factory)
+ [Click here to see the Road Trip Packing List in action.](https://rainakpuels.github.io/React-To-Do-List)
 
 This is an exercise developed during MIT xPro Full Stack Professional Certificate in Coding.
 
