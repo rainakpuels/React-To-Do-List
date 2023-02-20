@@ -1,6 +1,6 @@
 # React To-Do List
 
-<p align="center"><img width="400" src= alt="A preview of the React list with a title, Road Trip Packing List. The background is a simple, black and white map of the US. Overlayed on top, is a list of items to pack."> </p>
+<p align="center"><img width="400" src="Images/map-preview.png" alt="A preview of the React list with a title, Road Trip Packing List. The background is a simple, black and white map of the US. Overlayed on top, is a list of items to pack."> </p>
 
 # About:
 
