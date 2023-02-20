@@ -13,7 +13,7 @@ code {
 
 
 .app {
-  background-image: url("../Images/us-map-bw2.png");
+  background-image: url("./Images/us-map-bw2.png");
   background-position: center;
   background-size: cover;
   height: 30em;
